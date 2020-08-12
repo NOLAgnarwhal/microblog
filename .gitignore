@@ -1,4 +1,5 @@
 config.py
+app.db
 
 ###ABOVE HERE IS MY OWN ADDITIONS TO .gitignore###
 ###BELOW HERE IS THE PRE-MADE LIST FROM Python.gitignore###
